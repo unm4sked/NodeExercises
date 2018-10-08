@@ -1,0 +1,42 @@
+{
+  "name": "Lukasz Kalicki",
+  "diseases": [
+    "moszna",
+    "obojczyk",
+    "buahuahua 404 lul"
+  ],
+  "interests": [
+    {
+      "field": "sport",
+      "description": "narty"
+    },
+    {
+      "field": "sport",
+      "description": "pilka plazowa"
+    },
+    {
+      "field": "sport",
+      "description": "pilka nozna"
+    },
+    {
+      "field": "jedzenie",
+      "description": "bulka posmarowana nozem",
+      "comment": "omg co ja pacze"
+    },
+    {
+      "field": "jedzenie",
+      "description": "zupa z biedronki",
+      "comment": "bede zigou"
+    },
+    {
+      "field": "nauka",
+      "description": "matematyka",
+      "comment": "Wspaniale"
+    },
+    {
+      "field": "nauka",
+      "description": "geografia",
+      "comment": "superancko"
+    }
+  ]
+}
